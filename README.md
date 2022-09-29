@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://kivy.org/">
-<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/02/15130938/KIVY.png"/>
+<img src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2019/02/15130938/KIVY.png" width="100" height="100"/>
 </a>
 
 

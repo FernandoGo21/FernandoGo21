@@ -33,6 +33,15 @@
 <img src="https://lowendplay.com/wp-content/uploads/2021/02/kivy.jpg" width="75" height="27"/>
 </a>
 
+### I'm currently learning
+<a href="https://spring.io/">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+</a>
+<a href="https://angular.io/">
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+</a>
+
+
 
 <!--
 **FernandoGo21/FernandoGo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

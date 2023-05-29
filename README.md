@@ -32,16 +32,28 @@
 <a href="https://kivy.org/">
 <img src="https://lowendplay.com/wp-content/uploads/2021/02/kivy.jpg" width="75" height="27"/>
 </a>
-
-### I'm currently learning
-<a href="https://spring.io/">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<a href="https://github.com/spring-projects/spring-boot">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
 </a>
 <a href="https://angular.io/">
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
 </a>
 
 
+<a href="https://www.postgresql.org/">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+</a>
+
+### I'm currently learning
+<a href="https://reactnative.dev/">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</a>
+<a href="https://firebase.google.com/">
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+</a>
+<a href="https://adonisjs.com/">
+<img src="https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white">
+</a>
 
 <!--
 **FernandoGo21/FernandoGo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
